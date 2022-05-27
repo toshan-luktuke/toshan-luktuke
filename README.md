@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on [stock-market-analyser](https://github.com/toshan-luktuke/stock-market-analyser) and taking part in E-Yantra
+- 🔭 I’m currently working on [Visual Circuit](https://github.com/JdeRobot/VisualCircuit) as a part of GSoC '22
 - 🌱 I’m currently learning about the MERN stack and Elixir
 - 💬 Talk to me about anything video games, fantasy novels and art
 - 📫 How to reach me: toshan1603@gmail.com
