@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Visual Circuit](https://github.com/JdeRobot/VisualCircuit) as a part of GSoC '22
-- 🌱 I’m currently learning about Swarm Robotics and Machine Laerning
+- 🌱 I’m currently learning about Swarm Robotics and Machine Learning
 - 💬 Talk to me about anything video games, fantasy novels and F1
 - 📫 How to reach me: toshan1603@gmail.com
 - 😄 Pronouns: he/him
