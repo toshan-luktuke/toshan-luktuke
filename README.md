@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on [Visual Circuit](https://github.com/JdeRobot/VisualCircuit) as a part of GSoC '22
-- 🌱 I’m currently learning about Swarm Robotics and Machine Learning
-- 💬 Talk to me about anything video games, fantasy novels and F1
+- 🔭 I’m currently interning at [Stoch Labs](https://www.stochlab.com/)
+- 🌱 I’m currently learning about Reinforcement Learning and Control Systems
+- 💬 Talk to me about anything video games and fantasy novels
 - 📫 How to reach me: toshan1603@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm pretty good at throwing cards 🎴
