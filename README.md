@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently interning at [Stoch Labs](https://www.stochlab.com/)
+- 🔭 I’m currently learning about Cloud Computing
 - 🌱 I’m currently learning about Reinforcement Learning and Control Systems
 - 💬 Talk to me about anything video games and fantasy novels
 - 📫 How to reach me: toshan1603@gmail.com
